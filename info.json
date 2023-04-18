@@ -1,0 +1,62 @@
+[
+    {
+        "firstName" : "Michael",
+        "lastName" : "Scott",
+        "branch" : "Scranton",
+        "title" : "Manager",
+        "salary" : 95000,
+        "quote" : "You miss 100% of the shots you don't take. - Wayne Gretzky” - Michael Scott",
+        "alterEgo" : "Prison Mike",
+        "picture" : "pictures/Prisonmike.webp"
+    },
+    {
+        "firstName" : "Jim",
+        "lastName" : "Halpert",
+        "branch" : "Scranton",
+        "title" : "Sales person",
+        "salary" : 75000,
+        "quote" : "Bears eat beets. Bears. Beets. Battlestar Galactica",
+        "alterEgo" : "Big Tuna",
+        "picture" : "pictures/JimHalpert.webp"
+    },
+    {
+        "firstName" : "Dwight",
+        "lastName" : "Schrute",
+        "branch" : "Scranton",
+        "title" : "Sales person",
+        "salary" : 74000,
+        "quote" : "Those who can't farm, farm celery",
+        "alterEgo" : "Big Tuna",
+        "picture" : "DwightSchrute.jpeg"
+    },
+    {
+        "firstName" : "Pam",
+        "lastName" : "Beesely",
+        "branch" : "Scranton",
+        "title" : "Reception",
+        "salary" : 70000,
+        "quote" : "I feel God in this Chili's tonight",
+        "alterEgo" : "Pama-lama-ding-dong",
+        "picture" : "pictures/PamHalpert.avif"
+    },
+    {
+        "firstName" : "Creed",
+        "lastName" : "Bratton",
+        "branch" : "Scranton",
+        "title" : "Unknown",
+        "salary" : 95000,
+        "quote" : "The Higher You Get, the Harder It Gets",
+        "alterEgo" : "Old Man",
+        "picture" : "CreedBratton.jpeg"
+    },
+    {
+        "firstName" : "Andy",
+        "lastName" : "Bernard",
+        "branch" : "Scranton",
+        "title" : "Sales",
+        "salary" : 75000,
+        "quote" : "I went to Cornell!",
+        "alterEgo" : "Nard Dog",
+        "picture" : "Andy.jpeg"
+    }
+]
