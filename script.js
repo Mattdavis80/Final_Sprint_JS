@@ -18,15 +18,18 @@ fetch("./info.json")
     });
   })
   .catch((error) => {
+    // Print statements to console if error fetching JSON data
     console.log("Something has went wrong!");
     console.log(error);
   });
 
 function FullName(person) {
+  // Returns the full name of a person
   return `${person.firstName} ${person.lastName}`;
 }
 
 function position(person) {
+  // Returns the name and position at the branch they work for
   switch (person.title) {
     case "Manager":
       return `${person.firstName} is the ${person.title} at the ${person.branch} location`;
@@ -43,12 +46,14 @@ function position(person) {
 }
 
 function salaryCalc(person) {
+  // Returns the salary and after tax amount of a person
   return `${person.firstName} makes ${
     person.salary
   } but after taxes they take home ${person.salary * (1 - taxRate)}`;
 }
 
 function alternateName(person) {
+  // Returns a persons alternate name
   return `${person.firstName} also goes by ${person.alterEgo}`;
 }
 
